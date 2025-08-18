@@ -1,38 +1,23 @@
-## Olá, meu nome é Rayza!
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Rayza-Souto&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayza-Souto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
+<h1 align="center">👋 Olá, eu sou a Rayza</h1>
 
 <p align="center">
-  <a
-    href="https://github.com/Rayza-Souto/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Rayza-Souto&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
+</p><br><br>
+
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Outlook Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rayzasouto@outlook.com)](mailto:rayzasouto@outlook.com)
+[![Linkedin: Rayza](https://img.shields.io/badge/-RayzaSouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayza-souto/)](https://www.linkedin.com/in/rayza-souto/)
+<br><br>
+
+
+![Rayza-Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayza-Souto&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir você! 😊 <br><br>
