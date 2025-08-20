@@ -1,22 +1,30 @@
-<h1 align="center">👋 Olá, eu sou a Rayza</h1>
+# Olá! Eu sou Rayza Souto 👋
 
-<p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
-</p><br><br>
+🎓 **Estudante de Ciência da Computação** apaixonada por desenvolvimento web.
 
+## 💻 Habilidades
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,css,html)](https://skillicons.dev)<br><br>
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,react)](https://skillicons.dev)<br><br>
+## 🚀 Projeto favorito
 
-## 📫 Contato
+- **Herois**  
+  Aplicação web que destaca personagens marcantes do universo dos heróis, desenvolvida para praticar e aprofundar meus conhecimentos em React.
 
-[![Outlook Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rayzasouto@outlook.com)](mailto:rayzasouto@outlook.com)
-[![Linkedin: Rayza](https://img.shields.io/badge/-RayzaSouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayza-souto/)](https://www.linkedin.com/in/rayza-souto/)
-<br><br>
+## 🗂️ Organização & Produtividade
 
+Sou bastante organizada e adoro usar planners e bullet journal para planejar meus estudos e projetos. Essa habilidade me ajuda a manter foco e eficiência tanto no dia a dia quanto em desafios de programação.
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/rayza-souto/)
+- **Telefone:** (11) 99286-5587
+- **E-mail:** rayzasouto@outlook.com
+
+✨ Sempre buscando aprender mais e contribuir com projetos que tragam impacto e inovação!
 
 ![Rayza-Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayza-Souto&show_icons=true&theme=radical)
 
