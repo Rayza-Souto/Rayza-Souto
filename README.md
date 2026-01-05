@@ -1,31 +1,51 @@
-# Olá! Eu sou Rayza Souto 👋
+# 👋 Ei, eu sou a Rayza Souto
 
-🎓 **Estudante de Ciência da Computação** apaixonada por desenvolvimento web.
+🚀 Estudante de Ciência da Computação | Foco em QA e Desenvolvimento Web
 
-## 💻 Habilidades
+Estou praticando programação com projetos voltados para **qualidade de software, testes e aplicações web**.  
+Gosto de documentar meu aprendizado com casos de teste e testes manuais.
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+---
+
+## 🛠 Tech & Tools
+
+💻 Tecnologias que estou estudando:
+- **HTML | CSS | JavaScript**
 - **React**
+- **Testes manuais e criação de casos de teste**
+- **Boas práticas de QA**
 
-## 🚀 Projeto favorito
+---
 
-- **Herois**  
-  Aplicação web que destaca personagens marcantes do universo dos heróis, desenvolvida para praticar e aprofundar meus conhecimentos em React.
+## 🚀 Projetos que merecem destaque
 
-## 🗂️ Organização & Produtividade
+👉 Aqui estão os projetos fixados no meu GitHub:
 
-Sou bastante organizada e adoro usar planners e bullet journal para planejar meus estudos e projetos. Essa habilidade me ajuda a manter foco e eficiência tanto no dia a dia quanto em desafios de programação.
+**🔹 [To-Do List com Testes](link-projeto)**  
+Projeto simples de tarefas com foco em validação e casos de teste.
+
+**🔹 [Calculadora de Gorjeta com QA](link-projeto)**  
+Testes de borda e verificação de entradas inválidas.
+
+**🔹 [App de Clima (API)](link-projeto)**  
+Consome API externa e tem tratamento de erros documentado.
+
+---
+
+## 🧪 Abordagem de QA
+
+Estudo QA criando:
+- **Casos de Teste** documentados 📋  
+- **Bug Reports** com evidências 🐞  
+- Cenários de erro e fluxos alternativos 💡
+
+Você encontra tudo na pasta `/qa` de cada projeto.
+
+---
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/rayza-souto/)
-- **Telefone:** (11) 99286-5587
-- **E-mail:** rayzasouto@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/rayza-souto  
+📧 Email: rayzasouto@outlook.com
 
-✨ Sempre buscando aprender mais e contribuir com projetos que tragam impacto e inovação!
-
-![Rayza-Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayza-Souto&show_icons=true&theme=radical)
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir você! 😊 <br><br>
+✨ Estou sempre aprendendo e aberta a colaborações!
