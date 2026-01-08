@@ -21,7 +21,7 @@ Gosto de documentar meu aprendizado com casos de teste e testes manuais.
 
 👉 Aqui estão os projetos fixados no meu GitHub:
 
-**🔹 [To-Do List com Testes](link-projeto)**  
+**🔹 [To-Do List com Testes](https://github.com/Rayza-Souto/To-Do-List)**  
 Projeto simples de tarefas com foco em validação e casos de teste.
 
 **🔹 [Calculadora de Gorjeta com QA](link-projeto)**  
