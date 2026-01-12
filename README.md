@@ -24,7 +24,7 @@ Gosto de documentar meu aprendizado com casos de teste e testes manuais.
 **🔹 [To-Do List com Testes](https://github.com/Rayza-Souto/To-Do-List)**  
 Projeto simples de tarefas com foco em validação e casos de teste.
 
-**🔹 [Calculadora de Gorjeta com QA](link-projeto)**  
+**🔹 [Calculadora de Gorjeta com QA](https://github.com/Rayza-Souto/Calculadora-de-Gorjeta)**  
 Testes de borda e verificação de entradas inválidas.
 
 **🔹 [App de Clima (API)](link-projeto)**  
