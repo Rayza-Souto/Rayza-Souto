@@ -1,12 +1,12 @@
 # Oi, eu sou a Rayza 👋
 
-💻 Trabalho com suporte de TI e atualmente estou estudando desenvolvimento web.
-📚 Gosto de aprender criando projetos e experimentando ideias novas.
-✨ Muitos dos meus repositórios existem simplesmente porque eu quis testar algo ou aprender uma tecnologia diferente.
+- 💻 Trabalho com suporte de TI e atualmente estou estudando desenvolvimento web.
+- 📚 Gosto de aprender criando projetos e experimentando ideias novas.
+- ✨ Muitos dos meus repositórios existem simplesmente porque eu quis testar algo ou aprender uma tecnologia diferente.
 
 ---
 
-##👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 - 🌱 Atualmente estudando JavaScript, Node.js e React
 - 🛠️ Experiência com suporte técnico e análise de problemas em sistemas
@@ -15,7 +15,7 @@
 
 ---
 
-##📂 Sobre meus projetos
+## 📂 Sobre meus projetos
 
 A maioria dos projetos aqui não foi criada para empresas ou processos seletivos.
 
@@ -30,7 +30,7 @@ Se algum projeto parecer simples, provavelmente ele foi feito enquanto eu estava
 
 ---
 
-##🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias que estou estudando
 
 - JavaScript
 - Node.js
@@ -41,7 +41,7 @@ Se algum projeto parecer simples, provavelmente ele foi feito enquanto eu estava
 
 ---
 
-##🌱 Um pouco além da programação
+## 🌱 Um pouco além da programação
 
 Quando não estou estudando ou programando, gosto de:
 
