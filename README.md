@@ -10,7 +10,7 @@
 
 - 🌱 Atualmente estudando JavaScript, Node.js e React
 - 🛠️ Experiência com suporte técnico e análise de problemas em sistemas
-- 🔎 Gosto de entender como as coisas funcionam por trás
+- 🔎 Gosto de entender como as coisas funcionam
 - 🎯 Meu objetivo é migrar para a área de desenvolvimento
 
 ---
