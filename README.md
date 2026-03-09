@@ -1,45 +1,58 @@
-# 👋 Ei, eu sou a Rayza Souto
+# Oi, eu sou a Rayza 👋
 
-🚀 Estudante de Ciência da Computação | Foco em QA e Desenvolvimento Web
-
-Estou praticando programação com projetos voltados para **qualidade de software, testes e aplicações web**.  
-Gosto de documentar meu aprendizado com casos de teste e testes manuais.
-
----
-
-## 🛠 Tech & Tools
-
-💻 Tecnologias que estou estudando:
-- **HTML | CSS | JavaScript**
-- **React**
-- **Testes manuais e criação de casos de teste**
-- **Boas práticas de QA**
+💻 Trabalho com suporte de TI e atualmente estou estudando desenvolvimento web.
+📚 Gosto de aprender criando projetos e experimentando ideias novas.
+✨ Muitos dos meus repositórios existem simplesmente porque eu quis testar algo ou aprender uma tecnologia diferente.
 
 ---
 
-## 🚀 Projetos que merecem destaque
+##👩‍💻 Sobre mim
 
-👉 Aqui estão os projetos fixados no meu GitHub:
-
-**🔹 [To-Do List com Testes](https://github.com/Rayza-Souto/To-Do-List)**  
-Projeto simples de tarefas com foco em validação e casos de teste.
-
-**🔹 [Calculadora de Gorjeta com QA](https://github.com/Rayza-Souto/Calculadora-de-Gorjeta)**  
-Testes de borda e verificação de entradas inválidas.
-
-**🔹 [App de Clima (API)](link-projeto)**  
-Consome API externa e tem tratamento de erros documentado.
+- 🌱 Atualmente estudando JavaScript, Node.js e React
+- 🛠️ Experiência com suporte técnico e análise de problemas em sistemas
+- 🔎 Gosto de entender como as coisas funcionam por trás
+- 🎯 Meu objetivo é migrar para a área de desenvolvimento
 
 ---
 
-## 🧪 Abordagem de QA
+##📂 Sobre meus projetos
 
-Estudo QA criando:
-- **Casos de Teste** documentados 📋  
-- **Bug Reports** com evidências 🐞  
-- Cenários de erro e fluxos alternativos 💡
+A maioria dos projetos aqui não foi criada para empresas ou processos seletivos.
 
-Você encontra tudo na pasta `/qa` de cada projeto.
+Eles existem porque eu gosto de:
+
+- testar ideias
+- aprender novas tecnologias
+- resolver pequenos problemas
+- e às vezes só programar por diversão mesmo
+
+Se algum projeto parecer simples, provavelmente ele foi feito enquanto eu estava aprendendo algo novo.
+
+---
+
+##🚀 Tecnologias que estou estudando
+
+- JavaScript
+- Node.js
+- React
+- HTML
+- CSS
+- Git
+
+---
+
+##🌱 Um pouco além da programação
+
+Quando não estou estudando ou programando, gosto de:
+
+- 📖 ler
+- 🧶 aprender coisas manuais (tipo crochê)
+- 🎮 jogar
+- ✏️ organizar ideias e projetos pessoais
+
+---
+
+⭐ Se quiser explorar, fique à vontade para olhar os repositórios!
 
 ---
 
@@ -47,5 +60,3 @@ Você encontra tudo na pasta `/qa` de cada projeto.
 
 🔗 LinkedIn: https://www.linkedin.com/in/rayza-souto  
 📧 Email: rayzasouto@outlook.com
-
-✨ Estou sempre aprendendo e aberta a colaborações!
